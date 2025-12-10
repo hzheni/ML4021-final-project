@@ -3,6 +3,7 @@ Final project for DS4021!! :)
 need to do: 
 - add notebooks for linear, svm, ensemble
 - add any output files, like graphs, viz, ...
+- update the tree below for new files
 
 ## Section 1: Software and platform section
 This project uses the following tools and environments:
@@ -20,6 +21,7 @@ This project uses the following tools and environments:
 ## Section 2: Project Structure
 The project is organized into the following directories and files:
 
+```
 ML4021-final-project/
 ├── Data/
 │   ├── mxmh_survey_results.csv/                # Original dataset
@@ -35,3 +37,4 @@ ML4021-final-project/
 ├── OUTPUT/
 │   ├── ________put figures here later________/ 
 ├── README.md/
+```
