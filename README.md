@@ -38,8 +38,8 @@ ML4021-final-project/
 ├── NOTEBOOKS/
 │   ├── Descriptive_Analysis.ipynb             # Notebook for descriptive statistics and visualizations
 │   ├── NeuralNetwork.ipynb                    # Notebook for neural network model implementation
-│   ├── _______.ipynb
-│   └── _______.ipynb
+│   ├── SVM.ipynb                              # Notebook for SVM model implementation
+│   └── Penalized_Linear_Model.ipynb           # Notebook for Penalized Linear Model implementation
 ├── OUTPUT/
 │   ├── DA_age_kdeplot.png                      # Descriptive analysis plots
 │   ├── DA_hoursperday_agegroup_boxplot.png
