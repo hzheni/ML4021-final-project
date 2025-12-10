@@ -41,6 +41,15 @@ ML4021-final-project/
 │   ├── _______.ipynb
 │   └── _______.ipynb
 ├── OUTPUT/
-│   ├── ________put figures here later________ 
+│   ├── DA_age_kdeplot.png                      # Descriptive analysis plots
+│   ├── DA_hoursperday_agegroup_boxplot.png
+│   ├── DA_hoursperday_barplot.png
+│   ├── DA_hoursperday_whileworking_boxplot.png
+│   ├── DA_streamingservices_barplot.png
+│   ├── DA_top10genres_barplot.png
+│   ├── NeuralNetwork_actualvspredicted.png     # Neural network model output plots
+│   ├── NeuralNetwork_gridsearchresults.png
+│   ├── NeuralNetwork_residualshistogram.png
+│   └── NeuralNetwork_traininglosscurve.png
 ├── README.md
 ```
