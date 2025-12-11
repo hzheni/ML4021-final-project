@@ -51,10 +51,10 @@ ML4021-final-project/
 │   ├── Coeff_Comparison.png                    # Linear model plots
 │   ├── Lasso_MSE_vs_alpha.png
 │   ├── Ridge_MSE_vs_alpha.png
-│   ├── Ridge_Pred_v_Actual_TEST.png
-│   ├── Ridge_Residuals_TEST.png
 │   ├── SVR_Pred_v_Actual.png
 │   ├── SVR_Residuals.png
+│   ├── RF_Residuals_Test.png
+│   ├── RF_Actual_v_Pred_Test.png
 │   ├── NeuralNetwork_actualvspredicted.png     # Neural network model plots
 │   ├── NeuralNetwork_gridsearchresults.png
 │   ├── NeuralNetwork_residualshistogram.png
