@@ -60,5 +60,6 @@ ML4021-final-project/
 │   ├── NeuralNetwork_residualshistogram.png
 │   ├── NeuralNetwork_traininglosscurve.png
 │   └── NeuralNetwork_traininglosscurve.png
+├── Final_Report.pdf                            # Final Report
 ├── README.md
 ```
