@@ -36,26 +36,29 @@ ML4021-final-project/
 │   └── y_train.csv                            # Training labels
 ├── NOTEBOOKS/
 │   ├── Descriptive_Analysis.ipynb             # Notebook for descriptive statistics and visualizations
+│   ├── EnsembleModels.ipynb                   # Notebook for ensemble models
+│   ├── Final_Test.ipynb                       # Final Test Notebook
 │   ├── NeuralNetwork.ipynb                    # Notebook for neural network model implementation
 │   ├── SVM.ipynb                              # Notebook for SVM model implementation
 │   └── Penalized_Linear_Model.ipynb           # Notebook for Penalized Linear Model implementation
-├── OUTPUT/
-│   ├── Coeff_Comparison.png  
+├── OUTPUT/  
 │   ├── DA_age_kdeplot.png                      # Descriptive analysis plots
 │   ├── DA_hoursperday_agegroup_boxplot.png
 │   ├── DA_hoursperday_barplot.png
 │   ├── DA_hoursperday_whileworking_boxplot.png
 │   ├── DA_streamingservices_barplot.png
 │   ├── DA_top10genres_barplot.png
+│   ├── Coeff_Comparison.png                    # Linear model plots
 │   ├── Lasso_MSE_vs_alpha.png
-│   ├── NeuralNetwork_actualvspredicted.png     # Neural network model output plots
-│   ├── NeuralNetwork_gridsearchresults.png
-│   ├── NeuralNetwork_residualshistogram.png
 │   ├── NeuralNetwork_traininglosscurve.png
 │   ├── Ridge_MSE_vs_alpha.png
 │   ├── Ridge_Pred_v_Actual_TEST.png
 │   ├── Ridge_Residuals_TEST.png
 │   ├── SVR_Pred_v_Actual.png
-│   └── SVR_Residuals.png
+│   ├── SVR_Residuals.png
+│   ├── NeuralNetwork_actualvspredicted.png     # Neural network model plots
+│   ├── NeuralNetwork_gridsearchresults.png
+│   ├── NeuralNetwork_residualshistogram.png
+│   └── NeuralNetwork_traininglosscurve.png
 ├── README.md
 ```
