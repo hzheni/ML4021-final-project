@@ -53,7 +53,7 @@ ML4021-final-project/
 │   ├── Ridge_MSE_vs_alpha.png
 │   ├── SVR_Pred_v_Actual.png
 │   ├── SVR_Residuals.png
-│   ├── RF_Residuals_Test.png
+│   ├── RF_Residuals_Test.png                   # Test Visuals
 │   ├── RF_Actual_v_Pred_Test.png
 │   ├── NeuralNetwork_actualvspredicted.png     # Neural network model plots
 │   ├── NeuralNetwork_gridsearchresults.png
