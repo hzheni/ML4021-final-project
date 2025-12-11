@@ -1,6 +1,6 @@
 # DS4021 Final Project Repository
 
-This repository contains all the code, data, and documentation for the DS4021 final project. Our project focuses on analyzing survey data to determine if an individual's self reported anxiety (1-10) can be predicted from their music preferences.
+This repository contains all the code, data, and documentation for the DS4021 final project. Our project focuses on analyzing survey data to determine whether an individual's self-reported anxiety (rated 1-10) can be predicted from their music preferences.
 
 **Team Members:** Amelia Vasiliu, Jessica Ni, Ruth Melese
 
@@ -31,7 +31,6 @@ ML4021-final-project/
 ├── NOTEBOOKS/
 │   ├── Descriptive_Analysis.ipynb             # Notebook for descriptive statistics and visualizations
 │   ├── EnsembleModels.ipynb                   # Notebook for ensemble models
-│   ├── Final_Test.ipynb                       # Final Test Notebook
 │   ├── NeuralNetwork.ipynb                    # Notebook for neural network model implementation
 │   ├── SVM.ipynb                              # Notebook for SVM model implementation
 │   ├── EnsembleModels.ipynb                   # Notebook for Ensemble model
@@ -43,9 +42,13 @@ ML4021-final-project/
 │   ├── DA_hoursperday_whileworking_boxplot.png
 │   ├── DA_streamingservices_barplot.png
 │   ├── DA_top10genres_barplot.png
+│   ├── RF_Actual_v_Pred_Train.png             # Ensemble Methods plots
+│   ├── RF_Residuals_Train.png
+│   ├── RF_Risidual_Histogram.png
+│   ├── RF_Top_Feature_Importance.png
+│   ├── GB_ACtual_v_Predicted.png
 │   ├── Coeff_Comparison.png                    # Linear model plots
 │   ├── Lasso_MSE_vs_alpha.png
-│   ├── NeuralNetwork_traininglosscurve.png
 │   ├── Ridge_MSE_vs_alpha.png
 │   ├── Ridge_Pred_v_Actual_TEST.png
 │   ├── Ridge_Residuals_TEST.png
@@ -54,6 +57,7 @@ ML4021-final-project/
 │   ├── NeuralNetwork_actualvspredicted.png     # Neural network model plots
 │   ├── NeuralNetwork_gridsearchresults.png
 │   ├── NeuralNetwork_residualshistogram.png
+│   ├── NeuralNetwork_traininglosscurve.png
 │   └── NeuralNetwork_traininglosscurve.png
 ├── README.md
 ```
