@@ -1,8 +1,7 @@
 Final project for DS4021!! :) 
 
 need to do: 
-- add notebooks for linear, svm, ensemble
-- add any output files, like graphs, viz, ...
+- add notebooks for ensemble
 - update the tree below for new files
 
 # DS4021 Final Project Repository
