@@ -1,9 +1,3 @@
-Final project for DS4021!! :) 
-
-need to do: 
-- add notebooks for ensemble
-- update the tree below for new files
-
 # DS4021 Final Project Repository
 
 This repository contains all the code, data, and documentation for the DS4021 final project. Our project focuses on analyzing survey data to determine if an individual's self reported anxiety (1-10) can be predicted from their music preferences.
